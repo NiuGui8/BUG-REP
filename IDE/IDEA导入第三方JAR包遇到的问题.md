@@ -1,6 +1,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目使用的 maven 构建工具，有一个需求需要用到第三方jar包，在导入 jar 包后，本地运行正常，打包时也正常，但是运行打好的 JAR 包时，程序报错： `java.lang.NoClassDefFoundError.png`
 
-![截图](../img/NoClassDefFoundError.png)
+![截图](https://github.com/NiuGui8/BUG-REP/blob/master/IDE/img/NoClassDefFoundError.png)
 
 ---
 
